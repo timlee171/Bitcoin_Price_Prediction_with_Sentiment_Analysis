@@ -13,7 +13,7 @@ Nowadays, people heavily rely on social media and it becomes part of our lives. 
 <img src="https://github.com/timlee171/Bitcoin_price_prediction_with_Sentiment_Analysis/blob/main/Results/Exp1/expr_1.png" width=70% height=90%>
 
 
-#Reference
+# Reference
 1. https://github.com/pratikpv/predicting_bitcoin_market
 2. https://github.com/Aaron-Paul/Bitcoin-Price-Twitter-Sentiment-Analysis
 
