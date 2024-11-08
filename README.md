@@ -52,5 +52,7 @@ The results of our experiments are inspiring, but there are several alternative 
 
 # Reference
 [1]  Prajapati, P. (2020). Predictive analysis of Bitcoin price considering social sentiments. arXiv. https://doi.org/10.48550/arXiv.2001.10343 
+
 [2] Pagolu, V. S., Challa, K. N., Panda, G., & Majhi, B. (2016). Sentiment Analysis of Twitter Data for Predicting Stock Market Movements. arXiv. https://doi.org/10.48550/arXiv.1610.09225 
+
 [3] Hwang, J. (2020). Modeling Financial Time Series using LSTM with Trainable Initial Hidden States. arXiv. https://doi.org/10.48550/arXiv.2007.06848
