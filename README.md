@@ -40,8 +40,8 @@ As we mentioned above, the two key assumptions we want to figure out are:
 To understand the first assumption, we compared several pairs, which are experiment 1 and experiment 3, experiment 2 and experiment 4, and experiment 1 and experiment 4. 
 The first pair of results tells us that solely using price data can still outrun the performance using all sentiments. However, the second pair of results shows an outstanding performance on using only one sentiment source along with the price data can still outrun the performance of using either all features or using only price data. Also, the second pair shows that Twitter sentiment can perform slightly better compared to Reddit sentiment. The third pair of results indicates that using only one source of sentiment can perform better compared to using multiple sources of sentiment.  For the second assumption, we compared the results from experiments 3 and 5. The result showed that as we increase the timeframe, the performance of solely using the price data to make predictions gets worse. This also answers the issue [1] indicated, where they stated that the market is complicated and does not perform based on past movements, and as the timeframe increases, using solely the price data will not do as well as the small timeframe did. We can also see that comparing experiment 1 and experiment 6, the model still works better in the small dataset. The result shows that a smaller timeframe of data has a lower RMSE.
 
-# Results of experiment 1
-<img src="https://github.com/timlee171/Bitcoin_price_prediction_with_Sentiment_Analysis/blob/main/Results/Exp1/expr_1.png" width=70% height=90%>
+## Results of experiment 6
+<img src="https://github.com/timlee171/Bitcoin_price_prediction_with_Sentiment_Analysis/blob/main/Results/Exp6/expr_6.png" width=70% height=90%>
 
 # Conclusion
 In this paper, we have shown that models with a short timeframe of data generally outperform the models with a long timeframe of data, with or without sentiment analysis. 
